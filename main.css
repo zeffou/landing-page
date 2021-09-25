@@ -246,7 +246,7 @@ footer .media {
     cursor: pointer;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 414px) {
     * {
         line-height: 1.5em;
         box-sizing: border-box;
@@ -268,7 +268,7 @@ footer .media {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 30%;
+        width: 25%;
         margin-top: 11em;
     }
     .header p {
